@@ -1,5 +1,8 @@
 ### Hi, I'm Florencia 👋👩🏼‍💻
 I'm a Full Stack Developer, recently graduated from the Henry bootcamp.
+
+During the bootcamp, I gained skills and learned different programming languages. In the final stage of the program, I was assigned a web project to develop using an API. Finally, in the final group project, my classmates and I developed a mobile app of our choice using the SCRUM methodology. Through this experience, I learned about teamwork, new tools, and new programming languages outside of the bootcamp curriculum.
+
 - 😄 Pronouns: She/Her
 - 🔭  I’m currently working on a web e-commerce project about nutrition and fitness.
 - 🌱  I'm currently deepening my knowledge of Css, React-Native and the use of microservices.
@@ -19,8 +22,8 @@ I'm a Full Stack Developer, recently graduated from the Henry bootcamp.
 -Figma
 
 ## 📫 How to reach me: 
-HotMail : flor_dev@hotmail.com
-LinkedIn: https://www.linkedin.com/in/florencia-marchiondelli-051595274/
+- HotMail : flor_dev@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/florencia-marchiondelli-051595274/
 
 
 
