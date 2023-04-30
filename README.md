@@ -10,16 +10,16 @@ During the bootcamp, I gained skills and learned different programming languages
 - 🚀  Where am I headed? I want to continue deepening my knowledge of the languages I already know, develop my skills and learn about front-end development. I'm very interested in mobile development and UX/UI design.
 - ⚡ Fun fact:  I always try to seek originality in everything I do.
 ## Tecnologies: 
--Javascript
--Node
--React
--Redux
--Css
--Html
--Express
--PostgreSQL (Whit Sequelize ORM)
--Postman
--Figma
+- Javascript
+- Node
+- React
+- Redux
+- Css
+- Html
+- Express
+- PostgreSQL (Whit Sequelize ORM)
+- Postman
+- Figma
 
 ## 📫 How to reach me: 
 - HotMail : flor_dev@hotmail.com
