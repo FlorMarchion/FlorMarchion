@@ -4,7 +4,7 @@ I'm a Full Stack Developer, recently graduated from the Henry bootcamp.
 - 🔭  I’m currently working on a web e-commerce project about nutrition and fitness.
 - 🌱  I'm currently deepening my knowledge of Css, React-Native and the use of microservices.
 - 👯  I'm looking to collaborate on projects where I can make creative contributions and where there are new challenges.
-- 🚀  
+- 🚀  Where am I headed? I want to continue deepening my knowledge of the languages I already know, develop my skills and learn about front-end development. I'm very interested in mobile development and UX/UI design.
 - ⚡ Fun fact:  I always try to seek originality in everything I do.
 ## Tecnologies: 
 -Javascript
