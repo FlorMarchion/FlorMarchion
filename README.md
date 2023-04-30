@@ -13,6 +13,7 @@ I'm a Full Stack Developer, recently graduated from the Henry bootcamp.
 -Redux
 -Css
 -Html
+-Express
 -PostgreSQL (Whit Sequelize ORM)
 -Postman
 -Figma
