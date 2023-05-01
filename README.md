@@ -9,7 +9,7 @@ During the bootcamp, I gained skills and learned different programming languages
 - 👯  I'm looking to collaborate on projects where I can make creative contributions and where there are new challenges.
 - 🚀  Where am I headed? I want to continue deepening my knowledge of the languages I already know, develop my skills and learn about front-end development. I'm very interested in mobile development and UX/UI design.
 - ⚡ Fun fact:  I always try to seek originality in everything I do.
-## Tecnologies: 
+## Tecnologies & Tools: 
 - Javascript
 - Node
 - React
