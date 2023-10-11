@@ -13,11 +13,15 @@ During the bootcamp, I gained skills and learned different programming languages
 - Javascript
 - Node
 - React
+- React Native
 - Redux
+- Redux Toolkit
 - Css
 - Html
 - Express
-- PostgreSQL (Whit Sequelize ORM)
+- PostgreSQL
+- Sequelize
+- TypeORM
 - Postman
 - Figma
 
