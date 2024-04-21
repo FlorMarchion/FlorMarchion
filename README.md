@@ -1,7 +1,5 @@
 ### Hi, I'm Florencia 👋👩🏼‍💻
-I'm a Full Stack Developer, recently graduated from the Henry bootcamp.
-
-During the bootcamp, I gained skills and learned different programming languages. In the final stage of the program, I was assigned a web project to develop using an API. Finally, in the final group project, my classmates and I developed a mobile app of our choice using the SCRUM methodology. Through this experience, I learned about teamwork, new tools, and new programming languages outside of the bootcamp curriculum.
+I'm a Full Stack Developer
 
 - 😄 Pronouns: She/Her
 - 🔭  I’m currently working on a web e-commerce project about nutrition and fitness.
